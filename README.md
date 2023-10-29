@@ -4,7 +4,7 @@ This project integrates a React application with Contentful, a headless CMS, to 
 
 ## Project Link
 
-[Contentful React Project](https://your-project-url.com)
+[Contentful React Project](https://contentful-oxmj.onrender.com)
 
 ## Project Structure
 
